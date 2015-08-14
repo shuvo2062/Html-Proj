@@ -1,0 +1,158 @@
+body {
+margin-top: 10px;
+}
+
+#top-bar {
+height: 40px;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+#top-bar p {
+padding-top: 15px;
+vertical-align: middle;
+font-size: 16px;
+font: Arial;
+}
+
+#top-bar ul {
+vertical-align: middle;
+}
+
+#top-bar ul li {
+    font: Arial;
+    font-size: 16px;
+    width: auto;
+    vertical-align: middle;
+}
+
+#top-bar ul li a {
+    color: black;
+    height: 40px;
+    vertical-align: middle;
+}
+
+hr {
+padding-top: 0;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+#main-menu {
+height: 90px;
+margin-bottom: 0;
+}
+
+#navbar ul li {
+font-size: 20px;
+margin-top: 20px;
+}
+
+#red {
+color: red;
+}
+#text {
+width: 50%;
+height:140;
+margin-top: 0;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+.col-xs-6 ul .list-group .list-group-item #list-left {
+border-color: #fff;
+margin-right: 0;
+padding-right: 0;
+}
+
+.col-xs-6 ul .list-group .list-group-item #list-right {
+border-color: #fff;
+margin-left: 0;
+padding-left: 0;
+}
+#products {
+width: 1350px;
+height: auto;
+background-image: url("../img/product-bg.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-top: 40px;
+margin-bottom: 0;
+}
+
+#p-nav {
+margin-top: 140px;
+}
+#products h4 {
+color: #000;
+}
+#products p {
+color: #fff;
+}
+#service {
+width: 1350px;
+height: 700px;
+background-image: url("../img/services-bg.png");
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+#form {
+margin-top: 10px;
+}
+#service-items {
+margin-top: 400px;
+}
+
+#service-items p {
+color: #fff;
+}
+
+#svc-btn {
+background-color: transparent;
+border-color: red;
+}
+
+#textinput {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+#submit {
+width: 100%;
+margin-top: 0;
+}
+
+#contact {
+width: 1350px;
+height: 570px;
+background-image: url("../img/footer-bg.png");
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+margin-top: 60px;
+margin-bottom: 0;
+}
+
+#contact-gp {
+margin-top: 60px;
+}
+#white {
+width: 200px;
+color: white;
+}
+
+#footer {
+margin-top: 70px;
+}
+
+#footer p {
+padding-top: 50px;
+}
